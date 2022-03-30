@@ -1,0 +1,2 @@
+# SocialNetwork
+ This project deals with the creation of a mobile application for the Android platform. The aim of the project is to create a social network that will be accessible to every user of Android devices with Internet access. Describes the process of creating a social network and the implementation of basic functions that a common social network should contain. The application is created in the Android Studio program, which is the official environment for creating applications for the Android platform.
